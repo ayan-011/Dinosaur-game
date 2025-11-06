@@ -1,6 +1,6 @@
 # 🕹️ **MODISAURUS: The Fun Dino Game**
 
-![Game Banner](https://via.placeholder.com/1200x400?text=MODI-SAUR+GAME+BANNER)
+![Game Banner](https://github.com/user-attachments/assets/f735a773-9bb3-4758-8c14-6c756d654989)
 
 ## 📌 **About the Game**
 
