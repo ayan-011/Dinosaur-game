@@ -21,12 +21,6 @@
 
 ---
 
-## 🖼️ **Full Preview Image**
-
-![Full Game Preview](https://via.placeholder.com/1920x1080?text=FULL+GAME+PREVIEW)
-
----
-
 
 
 Designed and developed by **Ayaan**.
